@@ -1,0 +1,18 @@
+- - - - - Fuentes - - - - - -
+
+https://laravel.com/docs/5.4/migrations
+https://platzi.com/blog/crud-laravel/
+http://getbootstrap.com/getting-started/
+http://getbootstrap.com/examples/starter-template/
+https://ajgallego.gitbooks.io/laravel-5/content/capitulo_2_redirecciones.html
+https://laravelcollective.com/docs/master/html
+http://www.imdb.com
+
+
+
+- - - - - Linea Comandos - - - - 
+
+• php artisan route:list
+• php artisan make:auth
+• php artisan make:request "NAMERequest"
+• php artisan make:model "NAME" -m
